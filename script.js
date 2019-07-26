@@ -247,7 +247,7 @@ function initialiseSeries(){
 				color: "#8ed6f9"
 			},
 			{
-				name:'Maj',
+				name:'May',
 				y:31,
 				color: "#e1f5ff"
 			},
@@ -272,7 +272,7 @@ function initialiseSeries(){
 				color: "#e1f5ff"
 			},
 			{
-				name:'Okt',
+				name:'Oct',
 				y:31,
 				color: "#8ed6f9"
 			},
@@ -358,16 +358,16 @@ $( "#input" ).on( "click", "button.btn-add-row", function() {
 				<div class="col-md-12"> \
 					<div class="form-group frommonth-wrap"> \
 						<select class="form-control frommonth validate"> \
-							<option value="1">Januari</option> \
-							<option value="2">Februari</option> \
-							<option value="3">Mars</option> \
+							<option value="1">January</option> \
+							<option value="2">February</option> \
+							<option value="3">March</option> \
 							<option value="4">April</option> \
-							<option value="5">Maj</option> \
-							<option value="6">Juni</option> \
-							<option value="7">Juli</option> \
-							<option value="8">Augusti</option> \
+							<option value="5">May</option> \
+							<option value="6">June</option> \
+							<option value="7">July</option> \
+							<option value="8">August</option> \
 							<option value="9">September</option> \
-							<option value="10">Oktober</option> \
+							<option value="10">October</option> \
 							<option value="11">November</option> \
 							<option value="12">December</option> \
 						</select> \
@@ -412,16 +412,16 @@ $( "#input" ).on( "click", "button.btn-add-row", function() {
 					</div> \
 					<div class="form-group tomonth-wrap"> \
 						<select class="form-control tomonth validate"> \
-							<option value="1">Januari</option> \
-							<option value="2">Februari</option> \
-							<option value="3">Mars</option> \
+							<option value="1">January</option> \
+							<option value="2">February</option> \
+							<option value="3">March</option> \
 							<option value="4">April</option> \
-							<option value="5">Maj</option> \
-							<option value="6">Juni</option> \
-							<option value="7">Juli</option> \
-							<option value="8">Augusti</option> \
+							<option value="5">May</option> \
+							<option value="6">June</option> \
+							<option value="7">July</option> \
+							<option value="8">August</option> \
 							<option value="9">September</option> \
-							<option value="10">Oktober</option> \
+							<option value="10">October</option> \
 							<option value="11">November</option> \
 							<option value="12">December</option> \
 						</select> \
@@ -495,16 +495,16 @@ $("#btn-add-level").click(function(){
 					<div class="col-md-12"> \
 						<div class="form-group frommonth-wrap"> \
 							<select class="form-control frommonth validate"> \
-								<option value="1">Januari</option> \
-								<option value="2">Februari</option> \
-								<option value="3">Mars</option> \
+								<option value="1">January</option> \
+								<option value="2">February</option> \
+								<option value="3">March</option> \
 								<option value="4">April</option> \
-								<option value="5">Maj</option> \
-								<option value="6">Juni</option> \
-								<option value="7">Juli</option> \
-								<option value="8">Augusti</option> \
+								<option value="5">May</option> \
+								<option value="6">June</option> \
+								<option value="7">July</option> \
+								<option value="8">August</option> \
 								<option value="9">September</option> \
-								<option value="10">Oktober</option> \
+								<option value="10">October</option> \
 								<option value="11">November</option> \
 								<option value="12">December</option> \
 							</select> \
@@ -549,16 +549,16 @@ $("#btn-add-level").click(function(){
 						</div> \
 						<div class="form-group tomonth-wrap"> \
 							<select class="form-control tomonth validate"> \
-								<option value="1">Januari</option> \
-								<option value="2">Februari</option> \
-								<option value="3">Mars</option> \
+								<option value="1">January</option> \
+								<option value="2">February</option> \
+								<option value="3">March</option> \
 								<option value="4">April</option> \
-								<option value="5">Maj</option> \
-								<option value="6">Juni</option> \
-								<option value="7">Juli</option> \
-								<option value="8">Augusti</option> \
+								<option value="5">May</option> \
+								<option value="6">June</option> \
+								<option value="7">July</option> \
+								<option value="8">August</option> \
 								<option value="9">September</option> \
-								<option value="10">Oktober</option> \
+								<option value="10">October</option> \
 								<option value="11">November</option> \
 								<option value="12">December</option> \
 							</select> \
